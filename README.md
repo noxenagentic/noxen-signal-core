@@ -2,11 +2,6 @@
 
 Canonical signal schema library for NOXEN AI systems.
 
-[![Tests](https://github.com/noxenagentic/noxen-signal-core/actions/workflows/ci.yml/badge.svg)](https://github.com/noxenagentic/noxen-signal-core/actions/workflows/ci.yml)
-[![PyPI](https://img.shields.io/pypi/v/noxen-signal-core)](https://pypi.org/project/noxen-signal-core/)
-[![Python](https://img.shields.io/pypi/pyversions/noxen-signal-core.svg)](https://pypi.org/project/noxen-signal-core/)
-[![License](https://img.shields.io/github/license/noxenagentic/noxen-signal-core.svg)](https://github.com/noxenagentic/noxen-signal-core/blob/main/LICENSE)
-
 ## Installation
 
 ```bash
